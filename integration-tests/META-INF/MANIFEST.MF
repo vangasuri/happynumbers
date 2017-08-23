@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: classes lib/happynumbers-service-provider-0.0.1-SNAPSHOT.jar
